@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kaylee 👋
 
-<!--
-**Kaylee-Cruz/Kaylee-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at the University of South Florida studying Business Analytics and Information Systems. I believe the best insights don't just happen behind a screen — they happen where data meets human behavior.
 
-Here are some ideas to get you started:
+🎯 **Career goal:** Product Management
+📚 **Currently learning:** SQL, Python, JavaScript
+📍 Tampa, FL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**[Task Manager](https://github.com/Kaylee-Cruz/task-manager)** — a task management app built with Next.js 16, React 19, and Tailwind CSS v4, featuring a custom color system and persistent local storage.
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/kayleedcruz/)
